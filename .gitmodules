@@ -1,3 +1,6 @@
 [submodule "Moitda-Backend"]
 	path = Moitda-Backend
 	url = https://github.com/2024-Team-Techeer-Salon/Moitda-Backend.git
+[submodule "Moitda-Frontend"]
+	path = Moitda-Frontend
+	url = https://github.com/2024-Team-Techeer-Salon/Moitda-Frontend.git
